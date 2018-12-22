@@ -7,18 +7,19 @@
 
 .subheading {
     margin: var(--feather-grid-medium) 0;
+		font-family: 'Gudea', sans-serif;
 }
 
 .subheading a {
-	text-decoration: none;
+	text-decoration: wavy underline;
 }
 
 .subheading a:link, .subheading a:visited {
-	color: white;
+	color: #9EEBCF;
 }
 
 .subheading a:hover, .subheading a:active {
-	color: var(--tw-color-blue-faded);
+	color: white;
 }
 
 .grey {
@@ -163,5 +164,3 @@ img.emoji-img {
 		background-position: bottom right -400px;
 	}
 }
-
-
