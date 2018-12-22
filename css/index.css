@@ -1,6 +1,7 @@
 /* Styles specific to home page */
 
 .home-header {
+	background-image: url("../assets/bg.png");
 	padding-top: calc(var(--feather-grid-mega) * 3);
 	padding-bottom: calc(var(--feather-grid-mega) * 1.75);
 }
