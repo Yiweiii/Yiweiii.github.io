@@ -3,17 +3,17 @@
 .home-header {
 	padding-top: calc(var(--feather-grid-mega) * 3);
 	padding-bottom: calc(var(--feather-grid-mega) * 1.75);
+	color: white;
+}
+
+.medium-title  {
+	color: #9EEBCF;
+	font-weight: bold;
+	font-family: sans-serif;
 }
 
 .subheading {
     margin: var(--feather-grid-medium) 0;
-		color: white;
-}
-
-.subheading a {
-	color: #9EEBCF;
-	font-weight: bold;
-	font-family: sans-serif;
 }
 
 .subheading a {
