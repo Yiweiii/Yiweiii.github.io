@@ -7,11 +7,18 @@
 
 .subheading {
     margin: var(--feather-grid-medium) 0;
-		font-family: 'Gudea', sans-serif;
+		color: white;
 }
 
 .subheading a {
-	text-decoration: wavy underline;
+	color: #9EEBCF;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+
+.subheading a {
+	font-weight: bold;
+	font-family: sans-serif;
 }
 
 .subheading a:link, .subheading a:visited {
