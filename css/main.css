@@ -83,7 +83,7 @@ span.Icon--caretDown {
 }
 
 a.nav-link:link, a.nav-link:visited {
-  color: white;
+  color: black;
 }
 
 a.nav-link:hover, a.nav-link:active {
