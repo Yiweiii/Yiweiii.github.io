@@ -3,13 +3,6 @@
 .home-header {
 	padding-top: calc(var(--feather-grid-mega) * 3);
 	padding-bottom: calc(var(--feather-grid-mega) * 1.75);
-	background-color: var(--tw-color-gray-faint);
-}
-
-.medium-title  {
-	color: #9EEBCF;
-	font-weight: bold;
-	font-family: sans-serif;
 }
 
 .subheading {
@@ -17,16 +10,15 @@
 }
 
 .subheading a {
-	font-weight: bold;
-	font-family: sans-serif;
+	text-decoration: none;
 }
 
 .subheading a:link, .subheading a:visited {
-	color: #9EEBCF;
+	color: white;
 }
 
 .subheading a:hover, .subheading a:active {
-	color: white;
+	color: var(--tw-color-blue-faded);
 }
 
 .grey {
