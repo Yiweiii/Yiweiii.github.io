@@ -1,7 +1,7 @@
 /* Styles specific to home page */
 
 .home-header {
-	background-image: url("../assets/bg.png");
+	background-image: url("../assets/bg2.jpg");
 	padding-top: calc(var(--feather-grid-mega) * 3);
 	padding-bottom: calc(var(--feather-grid-mega) * 1.75);
 }
@@ -15,7 +15,7 @@
 }
 
 .subheading a:link, .subheading a:visited {
-	color: white;
+	color: #2E3347;
 }
 
 .subheading a:hover, .subheading a:active {
