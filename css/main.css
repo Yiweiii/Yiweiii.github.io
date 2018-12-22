@@ -42,7 +42,7 @@ nav {
 }
 
 span.Icon--logo {
-  color: white;
+  color: black;
   position: absolute;
   top: calc(var(--feather-grid-xxsmall) * 1.5);
   left: var(--feather-grid-small);
@@ -53,7 +53,7 @@ a.home-link, a.nav-link {
 }
 
 a.home-link:link, a.home-link:visited, .home-text {
-  color: white;
+  color: black;
   font-weight: var(--feather-font-weight-bold);
   margin: 0;
   margin-right: var(--feather-grid-large);
